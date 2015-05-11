@@ -9,7 +9,7 @@ public class EscapeDemo {
 		sum = kor + eng;
 		
 		System.out.print("\t성적처리\n");
-		System.out.println("=====================");
+		System.out.println("======================");
 		System.out.println("국어\t영어\t총점");
 		System.out.println(kor+ "\t"+eng+"\t"+sum);
 	}
