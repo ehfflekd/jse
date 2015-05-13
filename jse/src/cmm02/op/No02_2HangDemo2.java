@@ -1,6 +1,6 @@
 package cmm02.op;
 
-public class No2_2HangDemo2 {
+public class No02_2HangDemo2 {
 	public static void main(String[] args) {
 		int result = 5 + 5;
 		int value = result;
