@@ -1,6 +1,6 @@
 package oop01.syntax;
 
-public class PayB {
+public class PayD519 {
 	public static void main(String[] args) {
 		String hulk = "헐크";
 		int hulkSalary=200;
@@ -9,11 +9,11 @@ public class PayB {
 		String thor = "토르";
 		int thorSalary = 500;
 		
-		PayA hulkPay = new PayA();
+		PayA519 hulkPay = new PayA519();
 		hulkPay.setTax(hulkSalary);
-		PayA ironPay = new PayA();
+		PayA519 ironPay = new PayA519();
 		ironPay.setTax(ironSalary);
-		PayA thorPay = new PayA();
+		PayA519 thorPay = new PayA519();
 		thorPay.setTax(thorSalary);
 		
 		System.out.println("=== "+hulk+"의 5월 급여내역 ===");
@@ -32,4 +32,5 @@ public class PayB {
 		System.out.println("실수령액 : "+thorPay.getIncome());
 		System.out.println();
 	}
-}
+	}
+

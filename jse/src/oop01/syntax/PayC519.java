@@ -1,6 +1,6 @@
 package oop01.syntax;
 
-public class PayC {
+public class PayC519 {
 	public class PayA {
 		private String name;
 		private int salary; // 급여

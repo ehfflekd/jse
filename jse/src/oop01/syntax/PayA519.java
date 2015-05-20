@@ -1,6 +1,6 @@
 package oop01.syntax;
 
-public class PayA {
+public class PayA519 {
 	private String name;
 	private int salary; // 급여
 	public static final double TAX = 0.1; // 세율 0.1

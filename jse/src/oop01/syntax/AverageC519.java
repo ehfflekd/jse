@@ -1,6 +1,6 @@
 package oop01.syntax;
 
-public class AverageC {
+public class AverageC519 {
 	/*필드 선언*/
 	String name;
 	int kor;

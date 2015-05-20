@@ -1,17 +1,11 @@
 package oop01.syntax;
 
-public class AverageA {
-	String name;
-	int kor;
-	int eng;
-	int tot;
-	double avg;
-	
+public class AverageD519 {
 	public static void main(String[] args) {
 		/*학생 객체 생성 및 메모리 할당*/
-		AverageA hulk = new AverageA();
-		AverageA iron = new AverageA();
-		AverageA hawk = new AverageA();
+		AverageC519 hulk = new AverageC519();
+		AverageC519 iron = new AverageC519();
+		AverageC519 hawk = new AverageC519();
 		/* 이름 저장*/
 		hulk.name = "헐크";
 		iron.name = "아이언";
